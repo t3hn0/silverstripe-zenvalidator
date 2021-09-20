@@ -7,6 +7,7 @@ use SilverStripe\View\Requirements;
 use SilverStripe\i18n\i18n;
 use SilverStripe\Forms\CheckboxSetField;
 use SilverStripe\Control\Director;
+use SilverStripe\Control\Controller;
 
 /**
  * @package ZenValidator
